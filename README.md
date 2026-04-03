@@ -21,10 +21,17 @@
 ![MySQL](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roseeast&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=roseeast&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
+
+<!-- Total GitHub Stats -->
+![RoseEast's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roseeast&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_border=false)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=roseeast&theme=dark&hide_border=false)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&theme=dark&layout=compact&hide_border=false&count_private=true&include_all_commits=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=roseeast&icon=0&color=0)](https://visitcount.itsvg.in)
