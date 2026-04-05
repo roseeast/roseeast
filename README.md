@@ -19,6 +19,6 @@
 
 | Discord Stats | Language Stats | Streak Stats |
 |---|---|---|
-| [![Discord Presence](https://lanyard.cnrad.dev/api/914877686365708331)](https://discord.com/users/914877686365708331) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&layout=compact&theme=dark) | ![Streak Stats](https://streak-stats.demolab.com/?user=shisisan&theme=dark) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/914877686365708331)](https://discord.com/users/914877686365708331) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&layout=compact&theme=dark) | ![Streak Stats](https://streak-stats.demolab.com/?user=roseeast&theme=dark) |
 
 
