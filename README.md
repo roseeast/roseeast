@@ -19,15 +19,6 @@
 
 | Discord Stats | Language Stats | Streak Stats |
 |---|---|---|
-| [![Discord Presence](https://lanyard.cnrad.dev/api/1059388664225992737)](https://discord.com/users/1059388664225992737) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&layout=compact&theme=dark) | ![Streak Stats](https://streak-stats.demolab.com/?user=shisisan&theme=dark) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/914877686365708331)](https://discord.com/users/914877686365708331) | ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&layout=compact&theme=dark) | ![Streak Stats](https://streak-stats.demolab.com/?user=shisisan&theme=dark) |
 
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&theme=dark&layout=compact&hide_border=false&count_private=true&include_all_commits=true)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=roseeast&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/roseeast) 
