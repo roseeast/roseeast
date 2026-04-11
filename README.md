@@ -8,7 +8,7 @@
 - 🌱 Learning **Frameworks & Backend Systems**
 - 🤝 Open for collaboration
 - 💬 Ask me about **JavaScript, Laravel, Go, Python, C++, PAWN**
-- 📫 Reach me at: **mrichardfelix01@gmail.com**
+- 📫 Reach me at: **richardfitzgerald194@gmail.com**
 
 ---
 
