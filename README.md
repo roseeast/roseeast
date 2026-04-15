@@ -19,22 +19,6 @@
 <a href="https://discord.gg/dfUDBUTDRb"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
----
-
-### 🛠️ Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,php,python,go,cpp,c,cs,laravel,mysql,mongodb,linux,git,html,css,tailwind,electron" />
-</p>
-
----
-
-### 🎮 SAMP Development
-<p align="left">
-<img src="https://img.shields.io/badge/PAWN-Scripting-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SA--MP-Development-orange?style=for-the-badge" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
