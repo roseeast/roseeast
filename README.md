@@ -1,40 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rose</h1>
-<p align="center"> 🌭 Like Hotdogs</p>
+Hey There👋
+I'm Richard Fitzgerald, also known as RoseeasT online. I'm a twenty-one-year-old Software Developer from Bandung, ID.
 
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on **GTA Suave S-1.5.1**
-- 🌱 Learning **Frameworks & Backend Systems**
-- 🤝 Open for collaboration
-- 💬 Ask me about **JavaScript, Laravel, Go, Python, C++, PAWN**
-- 📫 Reach me at: **richardfitzgerald194@gmail.com**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://dev.to/roseeast"><img src="https://skillicons.dev/icons?i=devto" /></a>
-<a href="https://www.youtube.com/c/roseeastt"><img src="https://skillicons.dev/icons?i=youtube" /></a>
-<a href="https://discord.gg/dfUDBUTDRb"><img src="https://skillicons.dev/icons?i=discord" /></a>
-</p>
-
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roseeast&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roseeast&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=roseeast&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### ☕ Support Me
-<p align="center">
-<a href="https://www.buymeacoffee.com/roseeast">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
-</p>
+I'm Experienced with a wide variety of creative tools and technical skills, I like to code things and learn something new.
