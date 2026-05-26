@@ -1,5 +1,5 @@
 # Hey There👋
-i'm Richard Fitzgerald, also known as RoseeasT online. I'm a twenty-one-year-old Software Developer from Bandung, ID.<br><br>I'm Experienced with a wide variety of creative tools and technical skills, I like to code things and learn something new.
+i'm Richard Fitzgerald, also known as RoseeasT online. I'm a 19y.o Software Developer from Bandung, ID.<br><br>I'm Experienced with a wide variety of creative tools and technical skills, I like to code things and learn something new.
 
 ![](https://github-readme-stats.shion.dev/api?username=roseeast&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=roseeast&theme=radical&hide_border=false)<br/>
